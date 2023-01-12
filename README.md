@@ -14,10 +14,16 @@
 - [Spring Boot](https://github.com/VadimMarenov/Certificates/blob/master/SB.pdf)
 - [Data, Security](https://github.com/VadimMarenov/Certificates/blob/master/%D0%A5%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
 
+<!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimMarenov&show_icons=true&theme=radical)
+-->
+
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VadimMarenov&show_icons=true&theme=radical)](https://github.com/VadimMarenov/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VadimMarenov)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/VadimMarenov)  
+
+
 
 
