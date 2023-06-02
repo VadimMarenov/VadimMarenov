@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Vadim
-#### I am a beginner Java developer from Moscow.
+#### I am a Java developer from Moscow.
 #### Skills: Java / Maven / Spring / Spring Boot/ Hibernate / PostgreSQL / Docker / Docker-compose
 
 ### Мои работы
